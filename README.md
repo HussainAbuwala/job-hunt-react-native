@@ -13,7 +13,6 @@
 3. **Detailed Job Listings:** Users can view comprehensive job listings that include essential information such as job titles, company details, job descriptions, responsibilities, qualifications, and more. This detailed information helps job seekers make informed decisions.
 
 4. **Apply with Ease:** JobSearch Pro simplifies the job application process. Users can apply for jobs directly from the app with the "Apply" button, which takes them to the original job posting in their device's web browser.
-5. 
 
 ## Installation
 
